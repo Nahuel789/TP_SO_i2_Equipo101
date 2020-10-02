@@ -17,3 +17,71 @@ No se pierden los datos al ser un repositorio creado y editado por mi(BETA).
 
 e- Realizar un listado con los apellidos y nombres de los alumnos, junto con los comandos y orden de ejecucuion de los mismos,
 que debieron usar para este TP.
+
+-----------------------------
+Usuario: ALFA
+	-Nombre:Nahuel  
+	-Apellido:Carbajal
+
+Comandos:
+
+  459  git clone https://github.com/Nahuel789/TP_SO_i2_Equipo101.git
+  461  git status
+  462  git add .
+  463  git status
+  464  git commit -m "commit alfa nombre,ip y hora"
+  465  git push
+  466  git status
+  491  git pull https://github.com/ignaciovillalba/TP_SO_i2_Equipo101.git
+  492  git status
+  493  git pull https://github.com/ignaciovillalba/TP_SO_i2_Equipo101.git
+  494  git help
+  496  git pull https://github.com/ignaciovillalba/TP_SO_i2_Equipo101.git
+  
+		
+-----------------------------
+Usuario: BETA
+	-Nombre:Ignacio 
+	-Apellido:Villalba
+
+Comandos:
+   81  git clone https://github.com/ignaciovillalba/TP_SO_i2_Equipo101.git
+   82  git add .
+   83  git status
+   84  git commit -m "Subido fork.txt"
+   85  git push
+   86  git add .
+   87  git status
+   88  git commit -m "Agregado NuevoDato.txt"
+   89  git push
+   90  git add .
+   91  git status
+   92  git commit -m "Agregado respuesta_I2_equipo101.txt"
+   93  git push
+   94  git pull
+   95  git add .
+   96  git status
+   97  git commit -m "Modificado respuesta_I2_equipo101.txt respuestas C y D"
+   98  git push
+
+-----------------------------
+Usuario: GAMA
+	-Nombre:Franco 
+	-Apellido:Sagnella
+
+Comandos:
+
+git clone https://github.com/FrancoSagnella/TP_SO_i2_Equipo101
+git add .
+git commit -m "GAMMA actualizado"
+git push
+git pull https://github.com/ignaciovillalba/TP_SO_i2_Equipo101
+git add .
+git commit -m "GAMMA Actualizado"
+git push
+git clone https://github.com/ignaciovillalba/TP_SO_i2_Equipo101
+git add .
+git commit -m "GAMMA contesto las prgeuntas"
+git push
+
+-----------------------------

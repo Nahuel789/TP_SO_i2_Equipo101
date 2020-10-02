@@ -1,0 +1,2 @@
+a- Se actualiza con el monado git pull [el link del repositorio del que Forkee]
+b- No lo pudo actualizar, porque hace pull del repositorio base creado por BETA, no vio los cambios que hizo GAMMA
